@@ -1,5 +1,8 @@
 # Hi, I'm Zaroon 👋
-I’m a young developer passionate about mostly Python and python game dev, some roblox game dev , and trying to learn more!
+I am a young developer passionate about mostly Python and python game dev, some roblox game dev , and trying to learn more!
+I am open to be hired and work for you guys and gain experience!  
+I am a new and upcoming developer!
+Experience in coding/programming: 10+ months/ 1 year!
 
 ## 🛠 Skills
 - Python (Bots, Automation, Pygame, OpenAIs API with python)
@@ -15,18 +18,18 @@ I’m a young developer passionate about mostly Python and python game dev, some
 
 ### 🎮 Games
 - **Pixel Runner** – A side-scrolling Pygame where you dodge obstacles  
-  [View Code](link-to-repo)
+  (link-to-repo: https://github.com/zarooncode/Pixel-Runner)
 - **Space Shooter** – A classic arcade-style shooter made with Pygame  
-  [View Code](link-to-repo)
+  (link-to-repo: https://github.com/zarooncode/Space-Shooter)
 - **Flappy Bird Clone** – A Python remake of the popular mobile game  
-  [View Code](link-to-repo)
+  (link-to-repo: https://github.com/zarooncode/Flappy-bird-clone)
 - **Roblox Find The Crayons** – Players search for hidden crayons around the map (I did the coding, my partner handled building. Project unfinished, no repo available)
 
 ### 🤖 Bots & Automation
 - **Kahoot Auto Player** – Press a certain key, it screenshots the question and returns the correct answer  
-  [View Code](link-to-repo)
+  (link-to-repo: https://github.com/zarooncode/Kahoot-Automated-Quiz-taker)
 - **Typing Test Bot** – Automatically completes typing tests with high accuracy  
-  [View Code](link-to-repo)
+  (link-to-repo: https://github.com/zarooncode/Typing-test-bot-proceed-with-caution-)
 
 ---
 
