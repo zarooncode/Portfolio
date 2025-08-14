@@ -1,5 +1,5 @@
 # Hi, I'm Zaroon 👋
-I am a young developer passionate about mostly Python and python game dev, some roblox game dev , and trying to learn more!
+I am a young developer passionate about websites, Python and python game dev, some roblox game dev , and trying to learn more!
 I am open to be hired and work for you guys and gain experience!  
 I am a new and upcoming developer!
 Experience in coding/programming: 6+ months!
