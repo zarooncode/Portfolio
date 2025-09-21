@@ -7,13 +7,15 @@ Experience in coding/programming: 6+ months!
 ## 🛠 Skills
 - Python (Bots, Automation, Pygame, OpenAIs API with python)
 - Roblox Studio (Luau Scripting (Good at luau and have experience but not an advanced coder))
-
-## Skills to learn/learning
 - HTML
 - CSS
 - JS
-- Learning to make websites!
+- REACT.JS
+- Made Alot of working websites
 
+## Skills to learn/learning
+- Next.js
+- Backend Coding
 ## 🚀 Projects
 
 ### 🎮 Games
@@ -33,6 +35,10 @@ Experience in coding/programming: 6+ months!
 
 ---
 
+### 📶 Websites
+- **Personal Portfolio Website** - This was the first app I ever made, I made this app with JS-HTML AND CSS. Website URL: https://zaroons-portfolio.netlify.app/
+- **Movie-Website** - I made this website with react.js, and learnt alot of sutff like rendering lists: etc. Website URL: https://movie-app-zaroon.netlify.app/
+- I have made tons of more websites and I love doing so!
 
 ## 🌐 Find Me
 - Discord: trademen0w
